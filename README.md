@@ -7,16 +7,12 @@ Este repositório contém projetos divididos em vários níveis, iniciando com p
 
 Sinta-se a vontade para fazer um *fork* no repositório e treinar com os projetos que disponibilizei aqui!
 
-Bons estudos!
-
 ### English:
 Hello! This repository was created to share some of my web scraping projects, with the goal of helping people who are starting out in the field to practice through guided projects.
 
 This repository contains projects divided into various levels, starting with basic ones using only the Python packages requests and BeautifulSoup, and progressing to more complex projects using Selenium and database integration packages.
 
 Feel free to fork the repository and practice with the projects I’ve shared here!
-
-Happy learning!
 
 ## Stack
 
@@ -27,7 +23,16 @@ python:
 4. psycopg2 / oracledb
 5. Pandas
 
-## Contato
+# Flow and code
+This is the flow of the information:
+
+![Info Project](Assets/Projeto-Stack.PNG)
+
+This is the representation of the code loop:
+
+![Selenium](Assets/Flow-Selenium.PNG)
+
+## Contact
 <div> 
   <a href="https://www.linkedin.com/in/daniel-iglesias-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<a href="https://wa.me/5581989017459" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
